@@ -4,7 +4,6 @@ Libraries, Tools used:
 *   Python programming
 *   Deep learning (Convolutional Neural Networks) with Keras library 
 *   Tensorflow and Keras libraries
-*   the Tkinter library for building GUI
 
 To implement a **handwritten digit recognition app** which uses the image of a digit and recognizes the digit present in the image.
 This will be done using **Convolutional Neural Networks** which is a type of deep neural network.
